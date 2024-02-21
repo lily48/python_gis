@@ -1,9 +1,9 @@
-Pug Lunch Learn 2024
+# Pug Lunch Learn 2024
 Welcome to the Pug Lunch Learn 2024 project! These notebooks are designed to enhance your fluency in geospatial Python libraries. Whether you’re a beginner or an experienced data scientist, you’ll find valuable content here.
 
-Notebooks Overview
-Geopandas Basics and Complex Geosprocessing in Python
-Dive into Geopandas, explore basic geospatial operations, and tackle more complex tasks.
+## Notebooks Overview
+1. Geopandas Basics and Complex Geosprocessing in Python
+- Dive into Geopandas, explore basic geospatial operations, and tackle more complex tasks.
 Data Representation and Transforming Geospatial Data
 Learn how to represent geospatial data effectively and transform it for analysis.
 Spatial Indexing
