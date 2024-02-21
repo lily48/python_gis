@@ -14,7 +14,7 @@ Understand spatial indexing techniques to optimize geospatial queries.
 ### **Notebook #4:** Spatial Analysis with PySAL
 Explore advanced spatial analysis using the PySAL library.
   
-### **Notebook #5:**Scenario-based Examples
+### **Notebook #5:** Scenario-based Examples
 Bring together all the concepts learned in a mock scenario.
 
 ### Feedback
